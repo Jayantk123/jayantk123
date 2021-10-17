@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **"Finding".**
 
+<br/>
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -33,6 +35,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
+<br/>
+<br/>
 
 ## 📊 My Github Stats
 
@@ -68,3 +72,14 @@
 
 
 </p>
+
+<br/>
+<br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/Jayantk123/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Jayantk123">
+</a>
+<a href="https://github.com/Jayantk123?tab=followers"><img src="https://img.shields.io/github/followers/Jayantk123?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
