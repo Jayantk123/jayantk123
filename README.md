@@ -42,7 +42,7 @@
 ## 💻 Coding Profile's:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/leetcode-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/leetcode-logo.png" width="100vh"/> </a>
 
 </p>
 
