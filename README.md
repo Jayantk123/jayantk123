@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[MERN Stack Skills]**
+- 🔭 I’m currently working on **Full Stack Skills**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
