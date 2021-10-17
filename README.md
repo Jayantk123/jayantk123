@@ -43,6 +43,9 @@
 
 <p align="left"> 
     <a href="https://leetcode.com/Jayantk237/" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/leetcode-logo.png" width="50vh"> </a>
+    <a href="https://auth.geeksforgeeks.org/user/jayantk237/practice/" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/gfg%20logo.png" width="50vh"> </a>
+    <a href="https://www.codechef.com/users/jayantk237/" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/codechef-logo.png" width="50vh"> </a>
+    <a href="https://www.hackerrank.com/jayantk237?hr_r=1" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/hackerrank-logo.png" width="50vh"> </a>
 
 </p>
 
